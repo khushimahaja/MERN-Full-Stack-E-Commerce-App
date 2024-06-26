@@ -1,1 +1,1 @@
-# MERN-Full-Stack-E-Commerce-App
+# Online Fashion and Lifestyle Store
